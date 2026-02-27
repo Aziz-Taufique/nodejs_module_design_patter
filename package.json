@@ -1,0 +1,14 @@
+{
+  "name": "moudle_design_pattern",
+  "version": "1.0.0",
+  "description": "module is a mechanism for splitting js program into seprates managable chunk called as module that can be imported whenever needed.",
+  "main": "diff_node_browser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
